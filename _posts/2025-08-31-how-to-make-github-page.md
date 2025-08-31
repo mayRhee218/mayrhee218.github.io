@@ -47,7 +47,7 @@ After I installed the ruby and Jekyll, I followed below link's instruction to ma
 [Jekyll을 이용해 GitHub에 블로그 만들기 (1)](https://jetalog.net/86)
 
 It is usefull that I could make the basic jekyll github page like below.
-![basic jekyll blog](/_posts/materials/2025-08-31/basic-jekyll-blog.png)
+![basic jekyll blog](/assets/img/pages/2025-08-31/basic-jekyll-blog.png)
 
 However, I got trouble when I tried to adjust the theme that I like in my initial github page repository.
 (Like build failure because of the Gemfile.lock)
@@ -55,13 +55,13 @@ However, I got trouble when I tried to adjust the theme that I like in my initia
 So I recommend to find the github template you're using first and fork it and change the repository name as `<username>.github.io`.
 Some repository provides this "Use this template" button. I used it. 
 
-![Use this template](/_posts/materials/2025-08-31/chirpy-starter.png) _The them that I chose: [Chirpy-Starter](https://github.com/cotes2020/chirpy-starter)_
+![Use this template](/assets/img/pages/2025-08-31/chirpy-starter.png) _The them that I chose: [Chirpy-Starter](https://github.com/cotes2020/chirpy-starter)_
 
 ## Step3 : Change github deploy as github actions
 
 Go to your github page repository's 'Settings > Pages' and Change 'Build and Deployment' source as Github Actions. 
 
-![github-actions](/_posts/materials/2025-08-31/github-actions.png)
+![github-actions](/assets/img/pages/2025-08-31/github-actions.png)
 
 ## Step4: Write the post
 For writing the post or change the style, the ways are different depending on the template.
