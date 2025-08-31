@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How to make Github page (Jekyll)
 date: 2025-08-31 16:00:00 +/-1000
 categories: [Projects(2025), Github Page(Jekyll)]
