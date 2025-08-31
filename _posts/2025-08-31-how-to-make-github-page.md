@@ -70,5 +70,6 @@ For me, since I used this [chirpy template](https://github.com/cotes2020/jekyll-
 [Writing a New Post](https://chirpy.cotes.page/posts/write-a-new-post/#images)
 
 ## Step5: Finished
+![finished blog](/assets/img/pages/2025-08-31/my-blog.png)
 
 Now this is my blog and I could write the post and code
