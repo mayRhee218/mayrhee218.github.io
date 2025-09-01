@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Java]'equals() vs ==
+title: \[Java\] equals() vs ==
 date: 2025-09-01 16:00:00 +/-1000
 categories: [Learning, Java]
 tags: [java]     # TAG names should always be lowercase
