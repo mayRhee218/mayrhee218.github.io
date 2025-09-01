@@ -2,7 +2,7 @@
 layout: post
 title: Design Projects (~2022)
 date: 2025-09-01 16:30:00 +/-1000
-categories: [Projects(2022), Design]
+categories: [Projects, Design Projects]
 tags: [ux, design, portfolio]     # TAG names should always be lowercase
 image:
   path: /assets/img/pages/2025-09-01-design-projects/osulloc/cover.png

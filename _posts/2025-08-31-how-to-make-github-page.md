@@ -2,7 +2,7 @@
 layout: post
 title: How to make Github page (Jekyll)
 date: 2025-08-31 16:00:00 +/-1000
-categories: [Software Projects, Github Page(Jekyll)]
+categories: [Projects, Software Projects]
 tags: [github_page, jekyll]     # TAG names should always be lowercase
 author: mayRhee
 ---
