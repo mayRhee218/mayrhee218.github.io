@@ -67,7 +67,7 @@ Since s1 and s2 are different reference type variable, I assumed the address wou
 
 However, it was not true. if we print `System.identityHashcode(s1)` and `System.identityHashcode(s2)`, we could see they have same hashcode(address).
 
-How this thing happens? Because [String.intern()](http://docs.oracle.com/javase/7/docs/api/java/lang/String.html#intern()) methods makes all strings having same contents share same memory. 
+How this thing happens? Because [String.intern()](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#intern()) methods makes all strings having same contents share same memory. 
 
 As the oracle document, there is the pool of String, and if the intern method invoked and the pool contains the string that is equal to this String method as determined with `.equals()` method,(=So if the contents of the variable are same), the **string from the pool is returned.**
 
