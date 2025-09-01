@@ -35,3 +35,11 @@ I also like meeting people, as well as learning and teaching new things.
 
 - **2016.02 – 2019.02**  
   Communication Design major, *Hongik University*, Korea  
+
+
+## Projects
+---
+
+💻 [Software Projects](https://mayrhee218.github.io/categories/software-projects/)
+
+🎨 [Design Projects](https://mayrhee218.github.io/categories/design-projects/)

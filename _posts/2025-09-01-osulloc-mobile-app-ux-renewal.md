@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Projects (~2022)
+title: [UX/UI] Osulloc Mobile App Renewal (2022)
 date: 2025-09-01 16:30:00 +/-1000
 categories: [Projects, Design Projects]
 tags: [ux, design, portfolio]     # TAG names should always be lowercase
