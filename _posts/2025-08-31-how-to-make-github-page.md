@@ -73,3 +73,16 @@ For me, since I used this [chirpy template](https://github.com/cotes2020/jekyll-
 ![finished blog](/assets/img/pages/2025-08-31/my-blog.png)
 
 Now this is my blog and I could write the post and code
+
+## Step6: other things...(keep updating)
+
+1. When writing the date, if you write it as the future time(e.g. if you deployed it on 15:00 but writing date as `2025-09-01 16:30:00 +/-1000`, it will not be posted until the time that you wrote in date passed.)
+
+```yaml
+layout: post
+title: TITLE
+date: 2025-09-01 16:00:00 +/-1000 # Write the past time.
+```
+
+2.  After deploy, it takes quite lots of time until I could see the changing of my github page, so be patient.
+(Maybe I could find solution but so far, I don't have any solution except patience.)
