@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung Software Academy for Youth Projects
+title: Samsung Software Academy for Youth Projects(2022)
 date: 2025-09-01 16:00:00 +/-1000
 categories: [Projects, Software Projects]
 tags: [ssafy, portfolio]     # TAG names should always be lowercase
