@@ -24,7 +24,7 @@ Shake Up was the project for AI motion capture–based dance learning platform (
 
 My role was `frontend developer` with `React`, and I also did `PM` and `presenter`'s role.
 
-
+---
 
 ## 2. Chi Chu 🦷
 [Github Project repository](https://github.com/mayRhee218/CHI-CHU)
@@ -53,6 +53,8 @@ with `React` as one of the two `frontend developers`.
 We also used **google analytics** for user analysing.
 
 ![Google Analytics](/assets//img/pages/2025-09-01-sw-projects/chi-chu/google-analytics.png)
+
+---
 
 ## 3. SSAFYLand 🎡
 [Github Project repository](https://github.com/mayRhee218/SSAFYLand)
