@@ -58,7 +58,7 @@ At first I saw below code, I couldn't understand.
 ```java
     String s1 = "world";
     String s2 = "world";
-    System.out.println(s3 == s4); // true
+    System.out.println(s1 == s2); // true
 ```
 
 I thought that the value will be `false`. 
