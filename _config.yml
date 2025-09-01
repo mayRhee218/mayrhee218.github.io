@@ -34,15 +34,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Myeongseong Rhee(May Rhee)
+  name: Myeongseong Rhee(LinkedIn)
   email: mayrhee218@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/ms-rhee
     - https://twitter.com/MayRhee97 # change to your Twitter homepage
     - https://github.com/mayRhee218 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/ms-rhee
 
 # Site Verification Settings
 webmaster_verifications:
